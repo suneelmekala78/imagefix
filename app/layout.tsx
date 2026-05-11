@@ -20,7 +20,7 @@ export default function RootLayout({
         <header className="">
           <nav className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
             <Link href="/" className="font-bold text-lg">
-              <img src="logo-black.png" alt="ImageFix Logo" width={130} height={40} />
+              <img src="logo.png" alt="ImageFix Logo" width={130} height={40} />
             </Link>
             <div className="flex gap-4 text-sm">
               <Link href="/bg-remover">Background Remover</Link>
